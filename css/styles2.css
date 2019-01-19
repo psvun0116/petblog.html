@@ -31,3 +31,7 @@ p {
 .parent > ol {
   display: inline-block;
 }
+
+p.adopt {
+  font-family: sans-serif;
+}
