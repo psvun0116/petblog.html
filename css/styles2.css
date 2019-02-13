@@ -35,3 +35,8 @@ p {
 p.adopt {
   font-family: sans-serif;
 }
+
+.change-background {
+  background-color: #000000;
+  color: #FFFFFF;
+}
